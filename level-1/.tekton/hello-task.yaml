@@ -10,3 +10,7 @@ spec:
         - echo
       args:
         - "hello world"
+      command:
+        - echo
+      args:
+        - "This is tekton-pipeline template, yahooo!"
