@@ -9,7 +9,7 @@ spec:
       command:
         - echo
       args:
-        - "Palina, hello world"
+        - "Hello world"
     - name: echo2
       image: ubuntu
       command:
